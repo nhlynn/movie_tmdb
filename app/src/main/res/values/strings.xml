@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">movie_tmdb</string>
+
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="view_all">View All</string>
+    <string name="no_upcoming_movies">No Upcoming Movies</string>
+    <string name="no_popular_movies">No Popular Movies</string>
+    <string name="add_favourite">Add Favourite</string>
+    <string name="remove_favourite">Remove Favourite</string>
+    <string name="retry">Retry</string>
+</resources>
